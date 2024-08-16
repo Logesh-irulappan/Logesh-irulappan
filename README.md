@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Logesh-irulappan
 - 👀 I’m interested in Web Development and Software Engineering
-- 🌱 I’m currently MERNSTACK
+- 🌱 I’m currently learning MERNSTACK and currently working on a MERNSTACK Project
 - 💞️ I’m looking to collaborate on internships
 - 📫 Reach me via gmail: logeshirulappan@gmail.com
 
